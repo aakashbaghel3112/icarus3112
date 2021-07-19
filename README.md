@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading, playing games and learning 
 - 🌱 I’m currently learning android app development
 - 📫 How to reach me: 
--                     Insta - @aakashic.records
+                      Insta - @aakashic.records
                       Mail - aakash.baghel15@gmail.com
                       
 <!---
@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-<a href="https://www.qries.com/"> <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
